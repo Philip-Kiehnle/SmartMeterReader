@@ -1,0 +1,2 @@
+# Smart Meter Reader
+This project is not supposed to be a complete Smart Message Language (SML) parser. Its main purpose is the fast extraction of the actual power from the smart meter optical interface in order to feed the control loop of a PV hybrid or a battery inverter. In addition to the power (16.7.0), the parser also extracts the total imported energy (1.8.0) and the total exported energy (2.8.0). 
